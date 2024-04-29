@@ -1,16 +1,7 @@
 # geeks4geeks_flutter_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter Tutorial is specifically designed for beginners and experienced professionals.
+It covers both the basics and advanced concepts of the Flutter framework.
+## Screenshots
+![Screenshot 2024-04-29 175111](https://github.com/GisoreB/geeks4geeks_flutter_app/assets/144854877/0fb623de-c7d7-497d-8afb-ad4df57434ce)
+![Screenshot 2024-04-29 175056](https://github.com/GisoreB/geeks4geeks_flutter_app/assets/144854877/871638a2-0e51-46b3-baa1-f68b3dc46f3c)
